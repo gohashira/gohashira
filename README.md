@@ -7,7 +7,7 @@ I am a **MERN stack developer** 👨🏻‍💻 from India 🇮🇳 and I love t
 I believe in the process & the grind to awesome applications as **I love the dopamine rushing through my veins**
 
 <h2><b>I like:</b></h2>
-<img align='right' style='border-radius:5px;' src='gif/cool.gif' height='150' />
+<img align='right' src='gif/cool.gif' height='150' />
 <ul>
     <li>Learning beautiful technologies 🥰</li>
     <li>Web development & IOT 🚀</li>
