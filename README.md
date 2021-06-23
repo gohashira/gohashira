@@ -3,9 +3,7 @@
 <img src='gif/hello.gif' height='110' align='left'>
 Hey there visitor !
 I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I love to code, debug 🐞 & ship some real projects 🚀.
-I believe in the process & fond of grind to make some awesome applications as <b>I love that dopamine rushing through my veins 🔥</b>
-
-<br />
+I believe in the process & fond of grind to make some awesome applications as <b>I love that dopamine rushing through my veins 🔥</b><br /><br />
 
 <h2><b>I like:</b></h2>
 <img align='right' src='gif/cool.gif' height='150' />
