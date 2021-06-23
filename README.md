@@ -5,7 +5,9 @@ Hey there visitor !
 I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I love to code, debug 🐞 & ship some real projects 🚀.
 I believe in the process & fond of grind to make some awesome applications as <b>I love that dopamine rushing through my veins 🔥</b>
 
-<br /><h2><b>I like:</b></h2>
+<br />
+
+<h2><b>I like:</b></h2>
 <img align='right' src='gif/cool.gif' height='150' />
 <ul>
     <li>Learning beautiful technologies 🥰</li>
