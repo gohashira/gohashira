@@ -22,8 +22,5 @@ I believe in the process & fond of grind to make some awesome applications as <b
 
 [<img height='165' src='https://github-readme-stats.vercel.app/api?username=kuvamdazeus&theme=dracula' />](https://github.com/noobs-spotify-clone)   [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kuvamdazeus&theme=dracula&layout=compact' />](https://github.com/amazon-clone)<br /><br />
 
-<h2><b>Some projects I enjoyed doing:</b></h2><br />
-
-[![](https://github-readme-stats.vercel.app/api/pin?username=kuvamdazeus&theme=dracula&repo=noobs-spotify-clone)](https://github.com/kuvamdazeus/noobs-spotify-clone) [![](https://github-readme-stats.vercel.app/api/pin?username=kuvamdazeus&theme=dracula&repo=amazon-clone)](https://github.com/kuvamdazeus/amazon-clone)<br /><br />
 
 [<img src='images/linkedin-logo-copy.png' height='50' />](https://www.linkedin.com/in/kuvam-bhardwaj-8007161ba/) [<img src='images/gmail.png' height='50' />](mailto:kuvamyash@gmail.com)
