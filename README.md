@@ -1,5 +1,4 @@
-<h1><code>// I am Kuvam Bhardwaj</code></h1> <img />
-
+<h1><code>// I am Kuvam Bhardwaj</code></h1>
 <img src='gif/hello.gif' height='110' align='left'>
 <br></br>
 Hey there visitor !
