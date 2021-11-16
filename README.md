@@ -22,12 +22,10 @@ I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I lov
 />
 <img
     src='images/mongo.webp'
-    style='margin: 0px -3px 0px -9px'
     height='50'
 />
 <img
     src='images/js.jpeg'
-    style='margin: 0px 15px 0px 0px;'
     height='45'
 />
 <img
@@ -36,27 +34,22 @@ I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I lov
 />
 <img
     src='images/node.png'
-    height='80'
-    style='margin: 0px -5px -17px -5px'
+    height='45'
 />
 <img
     src='images/git.png'
-    style='margin: 0px -10px 0px -5px;'
     height='47'
 />
 <img
     src='images/react.png'
-    style='margin: 0px -7px 0px 0px;'
     height='53'
 />
 <img
     src='images/next.png'
-    style='margin: 0px -12px -12px -20px;'
-    height='73'
+    height='50'
 />
 <img
     src='images/python.png'
-    style='margin: 0px 3px 0px 0px;'
     height='50'
 />
 <img
@@ -65,27 +58,22 @@ I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I lov
 />
 <img
     src='images/html.webp'
-    style='margin: 0px 0px 0px 5px'
     height='53'
 />
 <img
     src='images/css.webp'
-    style='margin: 0px 0px 0px 5px'
     height='53'
 />
 <img
     src='images/tailwind.png'
-    style='margin: 0px 5px'
     height='53'
 />
 <img
     src='images/netlify.png'
-    style='margin: 5px 0px'
     height='45'
 />
 <img
     src='images/vercel.svg'
-    style='margin: 5px 5px'
     height='50'
 />
 <br /><br />
@@ -95,23 +83,21 @@ I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I lov
 
 [
     <img
-        src='images/linkedin-logo-copy.png' height='40' style='margin: 0px 5px 5px 0px;'
+        src='images/linkedin-logo-copy.png' height='40'
     />
 ](https://www.linkedin.com/in/kuvam-bhardwaj-8007161ba/)
 [
     <img
-        src='images/gmail.png' height='50'
+        src='images/gmail.png' height='40'
     />
 ](mailto:kuvambhardwaj0529@gmail.com)
 [
     <img
         src='images/twitter.png' height='35'
-        style='margin: 0px 0px 7px -7px'
     />
 ](https://twitter.com/BhardwajKuvam)
 [
     <img
-        src='images/coffee.png' width='200'
-        style='margin: 0px 0px -35px -30px'
+        src='images/coffee.png' width='150'
     />
 ](https://www.buymeacoffee.com/kuvam)
