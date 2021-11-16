@@ -1,8 +1,9 @@
 <h1><code>// I am Kuvam Bhardwaj</code></h1> <img />
 
 <img src='gif/hello.gif' height='110' align='left'>
+<br></br>
 Hey there visitor !
-I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I love to code, debug 🐞 & ship some real projects 🚀. Always on some project, <b>I love to collaborate and brainstorm</b> 🔥. Want to collaborate? try options given at the end ;)</b><br /><br /><br></br>
+I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I love to code, debug 🐞 & ship some real projects 🚀. Always making web apps, <b>I love to collaborate and brainstorm</b> 🔥. Want to collaborate? try options given at the end ;)</b><br /><br /><br></br>
 
 <h2><b>I like:</b></h2>
 <img align='right' src='gif/cool.gif' height='150' />
