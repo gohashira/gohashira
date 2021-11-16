@@ -34,7 +34,7 @@ I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I lov
 />
 <img
     src='images/node.png'
-    height='45'
+    height='50'
 />
 <img
     src='images/git.png'
@@ -93,11 +93,11 @@ I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I lov
 ](mailto:kuvambhardwaj0529@gmail.com)
 [
     <img
-        src='images/twitter.png' height='35'
+        src='images/twitter.png' height='40'
     />
 ](https://twitter.com/BhardwajKuvam)
 [
     <img
-        src='images/coffee.png' width='150'
+        src='images/coffee.png' height='40'
     />
 ](https://www.buymeacoffee.com/kuvam)
