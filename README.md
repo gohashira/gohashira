@@ -3,7 +3,8 @@
 <br></br>
 Hey there visitor !
 I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I love to code, debug 🐞 & ship some real projects 🚀. Always making web apps, <b>I love to collaborate and brainstorm</b> 🔥. Want to collaborate? try options given at the end ;)<br />
-I sometimes write blogs at: [kuvambhardwaj.hashnode.dev](https://kuvambhardwaj.hashnode.dev) 🤓
+I sometimes write blogs at:
+[kuvambhardwaj.hashnode.dev](https://kuvambhardwaj.hashnode.dev) 🤓
 </b><br /><br />
 
 <h2><b>I like:</b></h2>
@@ -76,7 +77,7 @@ I sometimes write blogs at: [kuvambhardwaj.hashnode.dev](https://kuvambhardwaj.h
 />
 <br /><br />
 
-[<img height='165' src='https://github-readme-stats.vercel.app/api?username=kuvamdazeus&theme=dracula' />](https://github.com/noobs-spotify-clone)   [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kuvamdazeus&theme=dracula&layout=compact' />](https://github.com/amazon-clone)<br /><br />
+[<img height='165' src='https://github-readme-stats.vercel.app/api?username=kuvamdazeus&theme=dracula' />]()   [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kuvamdazeus&theme=dracula&layout=compact' />]()<br /><br />
 
 
 [
