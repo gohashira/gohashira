@@ -109,12 +109,9 @@ I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I lov
         style='margin: 0px 0px 7px -7px'
     />
 ](https://twitter.com/BhardwajKuvam)
-<br></br>
-
-## Like what i do ? buy me a coffee here 🙃
 [
     <img
-        src='images/coffee.png' width=''
-        style='margin: 0px 0px 7px -7px'
+        src='images/coffee.png' width='200'
+        style='margin: 0px 0px -35px -30px'
     />
 ](https://www.buymeacoffee.com/kuvam)
