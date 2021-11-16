@@ -1,10 +1,8 @@
 <h1><code>// I am Kuvam Bhardwaj</code></h1>
 <img src='gif/hello.gif' height='110' align='left'>
-<br></br>
 Hey there visitor !
 I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I love to code, debug 🐞 & ship some real projects 🚀. Always making web apps, <b>I love to collaborate and brainstorm</b> 🔥. Want to collaborate? try options given at the end ;)<br />
-I sometimes write blogs at:
-[kuvambhardwaj.hashnode.dev](https://kuvambhardwaj.hashnode.dev) 🤓
+I sometimes write blogs at: https://kuvambhardwaj.hashnode.dev 🤓
 </b><br /><br />
 
 <h2><b>I like:</b></h2>
