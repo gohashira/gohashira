@@ -72,10 +72,6 @@ I am a <b>MERN stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I lov
     src='images/netlify.png'
     height='45'
 />
-<img
-    src='images/vercel.svg'
-    height='50'
-/>
 <br /><br />
 
 [<img height='165' src='https://github-readme-stats.vercel.app/api?username=kuvamdazeus&theme=dracula' />](https://github.com/noobs-spotify-clone)   [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kuvamdazeus&theme=dracula&layout=compact' />](https://github.com/amazon-clone)<br /><br />
