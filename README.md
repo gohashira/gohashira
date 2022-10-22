@@ -94,8 +94,3 @@ I sometimes write blogs at: https://dev.to/kuvambhardwaj 🤓
         src='images/twitter.png' height='40'
     />
 ](https://twitter.com/BhardwajKuvam)
-[
-    <img
-        src='images/coffee.png' height='40'
-    />
-](https://www.buymeacoffee.com/kuvam)
