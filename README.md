@@ -1,96 +1,60 @@
-<h1><code>// I am Kuvam Bhardwaj</code></h1>
-<img src='gif/hello.gif' height='110' align='left'>
-<br />
-Hey there visitor !
-I am a <b>Full-Stack stack developer</b> 👨🏻‍💻 from India 🇮🇳 and I love to code, debug 🐞 & ship some real projects 🚀. Always building, <b>I love to collaborate and brainstorm</b> 🔥. Want to collaborate? try options given at the end ;)<br />
-I sometimes write blogs at https://dev.to/kuvambhardwaj ✍🏻
-</b><br /><br />
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kuvam Bhardwaj
+======================================================================================================================================
 
-<h2><b>I like:</b></h2>
-<img align='right' src='gif/cool.gif' height='150' />
-<ul>
-    <li>Learning beautiful technologies 🥰</li>
-    <li>Web development & IOT 🚀</li>
-    <li>Mathematics behind machine learning ✨</li>
-    <li>Mentoring people ❤️</li>
-    <li>Telling people that java & javascript aren't same 😅</li>
-</ul>
+Full-Stack Developer (MERN + SQL)
+---------------------------------
 
-<h2><b>Instruments I Use:</b></h2><br />
+I've been learning to code for almost 2 years while doing freelance gigs & internships. TypeScript is the love of my life & Tailwind is my mistress ♥️
 
-<img
-    src='images/firebase.png'
-    height='50'
-/>
-<img
-    src='images/mongo.webp'
-    height='50'
-/>
-<img
-    src='images/js.jpeg'
-    height='45'
-/>
-<img
-    src='images/typescript.png'
-    height='45'
-/>
-<img
-    src='images/node.png'
-    height='50'
-/>
-<img
-    src='images/git.png'
-    height='47'
-/>
-<img
-    src='images/react.png'
-    height='53'
-/>
-<img
-    src='images/next.png'
-    height='50'
-/>
-<img
-    src='images/python.png'
-    height='50'
-/>
-<img
-    src='images/github.png'
-    height='53'
-/>
-<img
-    src='images/html.webp'
-    height='53'
-/>
-<img
-    src='images/css.webp'
-    height='53'
-/>
-<img
-    src='images/tailwind.png'
-    height='53'
-/>
-<img
-    src='images/netlify.png'
-    height='45'
-/>
-<br /><br />
+* 🌍  I'm based in New Delhi
+* 🖥️  See my portfolio at [kuvambhardwaj.vercel.app](http://kuvambhardwaj.vercel.app)
+* ✉️  You can contact me at [kuvambhardwaj0529@gmail.com](mailto:kuvambhardwaj0529@gmail.com)
+* 🚀  I'm currently working on [Analy (simple analytics client for web)](http://github.com/kuvamdazeus/analy-dashboard)
+* 🧠  I'm learning Web & Mobile w/ React Native
+* 🤝  I'm open to collaborating on Interesting Projects
+* ⚡  I secretly admire Physics more than Code 🤫
 
-[<img height='165' src='https://github-readme-stats.vercel.app/api?username=kuvamdazeus&theme=dracula' />]()   [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kuvamdazeus&theme=dracula&layout=compact' />]()<br /><br />
+<a href="https://www.twitter.com/bhardwajkuvam" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/bhardwajkuvam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
 
 
-[
-    <img
-        src='images/linkedin-logo-copy.png' height='40'
-    />
-](https://www.linkedin.com/in/kuvam-bhardwaj-8007161ba/)
-[
-    <img
-        src='images/gmail.png' height='40'
-    />
-](mailto:kuvambhardwaj0529@gmail.com)
-[
-    <img
-        src='images/twitter.png' height='40'
-    />
-](https://twitter.com/BhardwajKuvam)
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/kuvambhardwaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/kuvamdazeus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://kuvambhardwaj.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kuvambhardwaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bhardwajkuvam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/kuvamdazeus"><img src="https://github-readme-stats.vercel.app/api?username=kuvamdazeus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kuvamdazeus's GitHub stats" /></a>
+
+<a href="http://www.github.com/kuvamdazeus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kuvamdazeus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/kuvamdazeus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuvamdazeus&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
