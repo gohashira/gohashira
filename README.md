@@ -6,7 +6,7 @@ Full-Stack Developer (MERN + SQL)
 
 I've been learning to code for almost 2 years while doing freelance gigs & internships. TypeScript is the love of my life & Tailwind is my mistress ♥️
 
-* 🌍  I'm based in New Delhi
+* 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [kuvambhardwaj.vercel.app](http://kuvambhardwaj.vercel.app)
 * ✉️  You can contact me at [kuvambhardwaj0529@gmail.com](mailto:kuvambhardwaj0529@gmail.com)
 * 🚀  I'm currently working on [Analy (simple analytics client for web)](http://github.com/kuvamdazeus/analy-dashboard)
