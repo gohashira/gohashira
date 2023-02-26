@@ -10,8 +10,8 @@ I've been learning to code for almost 2 years while doing freelance gigs & inter
 * 🖥️  See my portfolio at [kuvambhardwaj.vercel.app](http://kuvambhardwaj.vercel.app)
 * ✉️  You can contact me at [kuvambhardwaj0529@gmail.com](mailto:kuvambhardwaj0529@gmail.com)
 * 🚀  I'm currently working on [Analy (simple analytics client for web)](http://github.com/kuvamdazeus/analy-dashboard)
-* 🧠  I'm learning Web & Mobile w/ React Native
-* 🤝  I'm open to collaborating on Interesting Projects
+* 🧠  I'm learning Full-Stack Web & Machine Learning with Python
+* 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I secretly admire Physics more than Code 🤫
 
 <a href="https://www.twitter.com/bhardwajkuvam" target="_blank" rel="noreferrer"><img
