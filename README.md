@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kuvam Bhardwaj
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm a Self-Taught Full-Stack Developer
 ======================================================================================================================================
 
-Full-Stack Developer (MERN + SQL)
----------------------------------
+I've been learning web for 2+ years now while doing freelance gigs & internships.
 
-I've been learning to code for almost 2 years while doing freelance gigs & internships. TypeScript is the love of my life & Tailwind is my mistress ♥️
+TypeScript is the love of my life & Tailwind is my mistress ♥️
 
 * 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [kuvambhardwaj.vercel.app](http://kuvambhardwaj.vercel.app)
