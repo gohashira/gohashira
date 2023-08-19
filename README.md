@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm a Self-Taught Full-Stack Developer
 ======================================================================================================================================
 
-I've been learning web for 2+ years now while doing freelance gigs & internships.
+I've been learning the web for almost 3 years now while doing freelance gigs & internships.
 
 TypeScript is the love of my life & Tailwind is my mistress ♥️
 
