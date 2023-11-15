@@ -12,6 +12,7 @@ In between switching careers to a Machine Learning Researcher/Engineer.
 *   ✉️  You can contact me at [kuvambhardwaj0529@gmail.com](mailto:kuvambhardwaj0529@gmail.com)
 *   🤝  I'm open to collaborating on projects
 *   🤫  I secretly love physics more than computers
+*   ✍🏻  See my blog page at Hashnode [here](https://kuvambhardwaj.hashnode.dev).
 
 <a href="https://www.twitter.com/bhardwajkuvam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bhardwajkuvam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
