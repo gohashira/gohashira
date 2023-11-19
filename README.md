@@ -5,8 +5,6 @@ I've been learning to build Deep Learning Models with TensorFlow for the past fe
 
 Have 3 years of experience as a full-stack developer.
 
-In between switching careers to a Machine Learning Researcher/Engineer.
-
 *   🌍  I'm based in New Delhi, India
 *   🖥️  See my portfolio at [kuvam.dev](http://kuvam.dev)
 *   ✉️  You can contact me at [kuvambhardwaj0529@gmail.com](mailto:kuvambhardwaj0529@gmail.com)
