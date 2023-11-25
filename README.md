@@ -1,22 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Self-Taught Learner
 ======================================================================================================================================
 
-I've been learning to build Deep Learning Models with TensorFlow for the past few months and I've really found my passion in building Machine Learning Systems, specifically Deep Neural Networks.
+### about me
+19yo self-taught. fan of no bs introductions. spent 3 years of my life breaking into js ecosystem, and will spend the next 3 years of my life breaking out of it.
 
-Have 3 years of experience as a full-stack developer.
+currently learning deep learning and trying not to push sizzling hot garbage code into work repo at the same time.
 
-*   🌍  I'm based in New Delhi, India
-*   🖥️  See my portfolio at [kuvam.dev](http://kuvam.dev)
-*   ✉️  You can contact me at [kuvambhardwaj0529@gmail.com](mailto:kuvambhardwaj0529@gmail.com)
-*   🤝  I'm open to collaborating on projects
-*   🤫  I secretly love physics more than computers
-*   ✍🏻  See my blog page at Hashnode [here](https://kuvambhardwaj.hashnode.dev).
+contemplating whether I should've gone to college or not...
 
-<a href="https://www.twitter.com/bhardwajkuvam" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/bhardwajkuvam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+### links
+- portfolio: [kuvam.dev](https://kuvam.dev)
+- blog: [kuvambhardwaj.hashnode.dev](https://kuvambhardwaj.hashnode.dev)
 
-### Skills
+### contact me
+reach me at [kuvambhardwaj0529@gmail.com](kuvambhardwaj0529@gmail.com) (open for collabs, please don't contact me for react.js/next.js/angular I will block you).
+
+### skills
 
 
 <p align="left">
@@ -35,6 +34,10 @@ src="https://img.shields.io/twitter/follow/bhardwajkuvam?logo=twitter&style=for-
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 
 
-### Socials
+### socials
 
-<p align="left"> <a href="https://www.dev.to/kuvambhardwaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/kuvamdazeus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://kuvambhardwaj.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kuvambhardwaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bhardwajkuvam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.dev.to/kuvambhardwaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/kuvamdazeus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://kuvambhardwaj.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/kuvambhardwaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
