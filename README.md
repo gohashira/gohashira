@@ -13,7 +13,8 @@ contemplating whether I should've gone to college or not...
 - blog: [kuvambhardwaj.hashnode.dev](https://kuvambhardwaj.hashnode.dev)
 
 ### contact me
-reach me at [kuvambhardwaj0529@gmail.com](kuvambhardwaj0529@gmail.com) (open for collabs).
+reach me at [cal.com/kuvam](https://cal.com/kuvam) (open for collabs).
+
 
 ### skills
 
