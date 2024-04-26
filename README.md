@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 ### about me
-19yo self-taught. fan of no bs introductions. spent 3 years of my life breaking into js ecosystem, and will spend the next 3 years of my life breaking out of it.
+self-taught. fan of no bs introductions. spent 3 years of my life breaking into js ecosystem, and will spend the next 3 years of my life breaking out of it.
 
 currently learning deep learning and trying not to push sizzling hot garbage code into work repo at the same time.
 
