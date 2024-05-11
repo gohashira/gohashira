@@ -1,12 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Self-Taught Learner
+waddup
 ======================================================================================================================================
 
 ### about me
-self-taught. fan of no bs introductions. spent 3 years of my life breaking into js ecosystem, and will spend the next 3 years of my life breaking out of it.
+19yo. self-taught. fan of no bs introductions. spent 3 years of my life breaking into js ecosystem, and will spend the next 3 years of my life breaking out of it.
 
-currently learning deep learning and trying not to push sizzling hot garbage code into work repo at the same time.
+i'm in my *looks at frontend applications & says "i'm too old for this shit"* arc, currently exploring who i am apart from a soydev.
 
-contemplating whether I should've gone to college or not...
+contemplating whether I should've gone to college or not... naaaaaahhh...
+
+> i like them thicc (and isolated, talking about abstractions).
+
+> aim to be language-agnostic developer.
+
+> roses are red violets are blue, if your company likes sprint planning, i'm not for you.
 
 ### links
 - portfolio: [kuvam.dev](https://kuvam.dev)
