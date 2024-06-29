@@ -16,7 +16,7 @@ contemplating whether I should've gone to college or not... naaaaaahhh...
 
 ### links
 - portfolio: [kuvam.dev](https://kuvam.dev)
-- blog: [kuvambhardwaj.hashnode.dev](https://kuvambhardwaj.hashnode.dev)
+- blog: [blog.kuvam.dev](https://blog.kuvam.dev)
 
 ### contact me
 reach me at [cal.com/kuvam](https://cal.com/kuvam) (open for collabs).
