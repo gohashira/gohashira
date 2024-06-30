@@ -14,6 +14,8 @@ contemplating whether I should've gone to college or not... naaaaaahhh...
 
 > roses are red violets are blue, if your company likes sprint planning, i'm not for you.
 
+> i draw my ideals from [motherfuckingwebsite.com](https://motherfuckingwebsite.com)
+
 ### links
 - portfolio: [kuvam.dev](https://kuvam.dev)
 - blog: [blog.kuvam.dev](https://blog.kuvam.dev)
