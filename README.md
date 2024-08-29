@@ -2,22 +2,23 @@ waddup
 ======================================================================================================================================
 
 ### about me
-19yo. self-taught. fan of no bs introductions. spent 3 years of my life breaking into js ecosystem, and will spend the next 3 years of my life breaking out of it.
+19yo. hardcore self-taught. fan of no bs introductions. spent 3 years of my life breaking into js ecosystem, and will spend the next 3 years of my life breaking out of it.
 
 i'm in my *looks at frontend applications & says "i'm too old for this shit"* arc, currently exploring who i am apart from a soydev.
 
-contemplating whether I should've gone to college or not... naaaaaahhh...
+i like them thicc (and isolated, talking about abstractions).
 
-> i like them thicc (and isolated, talking about abstractions).
+aim to be language-agnostic developer.
 
-> aim to be language-agnostic developer.
+roses are red violets are blue, if your company likes sprint planning, i'm not for you.
 
-> roses are red violets are blue, if your company likes sprint planning, i'm not for you.
+i draw my ideals from [motherfuckingwebsite.com](https://motherfuckingwebsite.com)
 
-> i draw my ideals from [motherfuckingwebsite.com](https://motherfuckingwebsite.com)
+> uses a lot of sexual humour & cussing to explain concepts, but knows the system deeply.
+>
+> -colleague from last whiteboard masturbation
 
 ### links
-- portfolio: [kuvam.dev](https://kuvam.dev)
 - blog: [blog.kuvam.dev](https://blog.kuvam.dev)
 
 ### contact me
