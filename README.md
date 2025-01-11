@@ -19,7 +19,7 @@ i draw my ideals from:
 
 > uses a lot of sexual humour & cussing to explain concepts, but knows the system deeply.
 >
-> -colleague from last whiteboard masturbation
+> -colleague from last day whiteboard masturbation
 
 ### contact me
 reach me on telegram at: [t.me/gohashira](https://t.me/gohashira).
