@@ -6,7 +6,7 @@ waddup
 
 i'm in my *looks at frontend applications & says "i'm too old for this shit"* arc, currently exploring who i am apart from a soydev.
 
-i like them thicc (and isolated, talking about abstractions).
+i like them thicc and isolated (talking about abstractions).
 
 aim to be language-agnostic developer.
 
