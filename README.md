@@ -13,7 +13,7 @@ aim to be language-agnostic developer.
 roses are red violets are blue, if your company likes sprint planning, i'm not for you.
 
 i draw my ideals from:
-- [motherfuckingwebsite.com](https://motherfuckingwebsite.com)
+- [motherfuckingwebsite.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - "less is more"
 - ThePrimeagen
 
@@ -22,8 +22,9 @@ i draw my ideals from:
 > -colleague from last day whiteboard masturbation
 
 ### contact me
-reach me on telegram at: [t.me/gohashira](https://t.me/gohashira).
+reach me on telegram at: [t.me/gohashira](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
+try your luck here: [cal.com/gohashira](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### skills
 
