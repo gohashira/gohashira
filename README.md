@@ -34,4 +34,6 @@ try your luck here: [cal.com/gohashira](https://www.youtube.com/watch?v=dQw4w9Wg
 
 ### socials
 
-hehe, don't have.
+~~hehe, don't have.~~
+
+watch me spread hate on X: [x.com/gohashira](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
