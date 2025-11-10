@@ -2,7 +2,7 @@ waddup
 ======================================================================================================================================
 
 ### about me
-21yo. hardcore self-taught. fan of no bs introductions. spent 3 years of my life breaking into js ecosystem, and will spend the next 3 years of my life breaking out of it.
+21yo. hardcore self-taught. fan of no bs introductions. spent 4 years of my life breaking into js ecosystem, and will spend the next 4 years of my life breaking out of it.
 
 i'm in my *looks at frontend applications & says "i'm too old for this shit"* arc, currently exploring who i am apart from a soydev.
 
