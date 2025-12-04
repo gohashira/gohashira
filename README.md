@@ -2,9 +2,7 @@ waddup
 ======================================================================================================================================
 
 ### about me
-21yo. hardcore self-taught. fan of no bs introductions. spent 4 years of my life breaking into js ecosystem, and will spend the next 4 years of my life breaking out of it.
-
-i'm in my *looks at frontend applications & says "i'm too old for this shit"* arc, currently exploring who i am apart from a soydev.
+21yo. hardcore self-taught. fan of no bs introductions. spent 3 years of my life breaking into js ecosystem, and will spend the next 3 years of my life breaking out of it.
 
 i like them thicc and isolated (talking about abstractions).
 
@@ -13,9 +11,7 @@ aim to be language-agnostic developer.
 roses are red violets are blue, if your company likes sprint planning, i'm not for you.
 
 i draw my ideals from:
-- [motherfuckingwebsite.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- "less is more"
-- ThePrimeagen
+- no one
 
 > uses a lot of sexual humour & cussing to explain concepts, but knows the system deeply.
 >
