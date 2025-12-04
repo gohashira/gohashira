@@ -14,7 +14,7 @@ i draw my ideals from:
 - no one
 
 companies i would (like to work in) [a-z]:
-- <INSERT_MY_CURRENT_COMPANY>
+- <INSERT_CURRENT_COMPANY_HERE>
 - apple
 - cloudflare
 - framework
